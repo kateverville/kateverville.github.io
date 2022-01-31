@@ -1,0 +1,30 @@
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+.top {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.g-col-6 {
+  margin-top: 50px;
+}
+.caption {
+  margin-top: 10px;
+}
+.container {
+  background-color: white;
+}
+.title {
+  color: #202020;
+  font-size: 500px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 30px;
+}
+.btn:hover {
+  color: tomato;
+}
